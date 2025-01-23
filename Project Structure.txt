@@ -1,0 +1,5 @@
+news_aggregator/
+├── aggregator.py      # Main script to fetch & display articles
+├── summarizer.py      # Simple frequency-based summarizer using nltk
+├── requirements.txt   # Dependencies
+└── README.md          # Project description & instructions
