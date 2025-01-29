@@ -1,2 +1,2 @@
 Change the RSS feed URL in fetch_news() if you want other sources.
-Adjust the summarizer function in summarizer.py to use more advanced NLP libraries.
+Adjust the summarizer function in "summarizer.py" to use more advanced NLP libraries.
